@@ -1,3 +1,4 @@
+<img width="2205" height="2205" alt="qr-code (16)" src="https://github.com/user-attachments/assets/85c2ad74-b52d-4fd8-94f4-d17b6bb1c78f" />
 
 # Budget & Convert App
 
