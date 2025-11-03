@@ -17,7 +17,7 @@
   - Бюджет: ![Budget](screenshots/budget.png)
 
 ## 🛠 Установка и запуск
-1. Клонируй репо: `git clone https://github.com/vf12776-ux/Budget-Convert-app.git`
+1. Клонируй репо: `git clone https://github.com/vf12776-ux/Budget-Convert-app.git' или просто сканируй QR-код 
 2. Открой `index.html` в браузере (или через VSCode Live Server).
 3. Тести:
    - Конвертер: Введи 100 RUB → USD.
