@@ -1,3 +1,4 @@
+<img width="2277" height="2277" alt="qr-code (17)" src="https://github.com/user-attachments/assets/9dbfa374-fc81-48da-97f7-371d21ccf26b" />
 # Budget & Convert App
 
 ![Budget & Convert Screenshot](https://via.placeholder.com/800x400?text=Budget+&+Convert+App) <!-- Замени на реальный скрин, сделай в браузере -->
